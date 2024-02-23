@@ -3,11 +3,11 @@ Tic Tac Toe project to learn how to use the React.js library! Following the [tut
 
 ## Gameplay & Features
 
-    Standard Tic-tac-toe rules (duh)
-    Turn Indicator: Displays which player's turn is next.
-    Win Detection: Detects and displays the winner.
-    Move History: Tracks the history of moves made during the game, allowing players to revert to a previous state of the game.
-    Restart Game: Provides the option to reset the game at any point.
+- Standard Tic-tac-toe rules (duh)
+- Turn Indicator: Displays which player's turn is next.
+- Win Detection: Detects and displays the winner.
+- Move History: Tracks the history of moves made during the game, allowing players to revert to a previous state of the game.
+- Restart Game: Provides the option to reset the game at any point.
 
 ## Installation
 
